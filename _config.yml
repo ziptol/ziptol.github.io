@@ -1,5 +1,5 @@
 # site settings
-remote_theme: andrewbanchich/forty-jekyll-theme
+theme_remote: andrewbanchich/forty-jekyll-theme
 title: Zack's Website
 subtitle: For all the stuff I do
 email: zperry2002@gmail.com
